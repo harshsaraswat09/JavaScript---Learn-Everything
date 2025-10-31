@@ -17,3 +17,22 @@
     ● 🎯Usage:
         𓈒 Base of all JS, mandatory in functions, loops, API logic
 
+🧠 2. Data types & Type system 
+    ● ✅ Teach:
+        - Primitive types (string, number, boolean, null, symbol, bigint)
+        - Reference types (array, objects, functions)
+        - Dynamic Typing
+        - typeof quirks (e.g., typeof null === 'object')
+        - Type Coercion (== vs ===)
+        - Truthy vs falsy values
+    
+    ● ⚠️ Common Confusion:
+        - why NaN is a number 
+        - undefined vs null
+        - "5" + 1 vs "5" - 1
+
+    ● 🧠 Mindset: 
+        - Think about types like expected input/output
+
+    ● 🎯Usage:
+        - API validation, form handling, state checks
